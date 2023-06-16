@@ -1,0 +1,6 @@
+transformers
+youtube_transcript_api
+ipython
+torch
+Flask
+Flask-cors
